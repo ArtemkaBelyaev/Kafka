@@ -9,5 +9,4 @@ import java.util.UUID;
 public class Order implements Serializable {
     private UUID orderId;
     private String status;
-    //
 }
